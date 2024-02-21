@@ -62,5 +62,7 @@ class Program
         Console.WriteLine($"Book '{book1.Title}' by {book1.Author} - Available: {book1.Available}");
         Console.WriteLine($"Book '{book2.Title}' by {book2.Author} - Available: {book2.Available}");
         Console.WriteLine($"Book '{book3.Title}' by {book3.Author} - Available: {book3.Available}");
+
+        Console.ReadLine();
     }
 }

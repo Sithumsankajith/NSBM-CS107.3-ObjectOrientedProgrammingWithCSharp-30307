@@ -56,7 +56,7 @@ namespace TemperatureTrackerApplication
             tracker.DisplayWeeklyTemperatureReport();
 
 
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }
